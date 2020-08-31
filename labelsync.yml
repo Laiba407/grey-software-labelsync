@@ -1,5 +1,5 @@
 repos:
-  github:
+  .github:
     config:
       removeUnconfiguredLabels: false
     labels:

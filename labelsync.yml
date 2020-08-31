@@ -1,1 +1,19 @@
-repos: {}
+repos:
+  github:
+    config:
+      removeUnconfiguredLabels: false
+    labels:
+      'Domain: Dev Experience':
+        color: '#00bcd4'
+        description: >-
+          This issue pertains to a developer's emotions and attitudes when
+          building Grey Software.
+        alias:
+          - devx
+          - domain/dev-exp
+        siblings: []
+      'Domain: Config':
+        color: '#b56edd'
+        description: This issue is related to configuration changes.
+        alias: []
+        siblings: []

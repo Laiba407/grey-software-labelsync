@@ -9,7 +9,7 @@ labelsync({
   repos: {
     /* Check presets in the repos folder. */
     // prisma,
-    github,
+    // github,
     /* Personalized repositories */
   },
 });

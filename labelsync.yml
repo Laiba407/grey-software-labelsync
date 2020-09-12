@@ -20,6 +20,11 @@ repos:
         description: An issue that causes problems for users and developers.
         alias: []
         siblings: []
+      'Status: Revisit':
+        color: '#7d64c4'
+        description: This issue will be revisited in the future!
+        alias: []
+        siblings: []
       'Status: In Discussion':
         color: '#455a64'
         description: >-
@@ -71,6 +76,14 @@ repos:
           This issue is about assuring the quality of the project through
           testing.
         alias: []
+        siblings: []
+      'Domain: Dependencies':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias:
+          - dependencies
         siblings: []
       'Domain: Security':
         color: '#3d5afe'
@@ -176,6 +189,11 @@ repos:
         description: An issue that causes problems for users and developers.
         alias: []
         siblings: []
+      'Status: Revisit':
+        color: '#7d64c4'
+        description: This issue will be revisited in the future!
+        alias: []
+        siblings: []
       'Status: In Discussion':
         color: '#455a64'
         description: >-
@@ -227,6 +245,14 @@ repos:
           This issue is about assuring the quality of the project through
           testing.
         alias: []
+        siblings: []
+      'Domain: Dependencies':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias:
+          - dependencies
         siblings: []
       'Domain: Security':
         color: '#3d5afe'
@@ -332,6 +358,11 @@ repos:
         description: An issue that causes problems for users and developers.
         alias: []
         siblings: []
+      'Status: Revisit':
+        color: '#7d64c4'
+        description: This issue will be revisited in the future!
+        alias: []
+        siblings: []
       'Status: In Discussion':
         color: '#455a64'
         description: >-
@@ -383,6 +414,14 @@ repos:
           This issue is about assuring the quality of the project through
           testing.
         alias: []
+        siblings: []
+      'Domain: Dependencies':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias:
+          - dependencies
         siblings: []
       'Domain: Security':
         color: '#3d5afe'
@@ -488,6 +527,11 @@ repos:
         description: An issue that causes problems for users and developers.
         alias: []
         siblings: []
+      'Status: Revisit':
+        color: '#7d64c4'
+        description: This issue will be revisited in the future!
+        alias: []
+        siblings: []
       'Status: In Discussion':
         color: '#455a64'
         description: >-
@@ -539,6 +583,14 @@ repos:
           This issue is about assuring the quality of the project through
           testing.
         alias: []
+        siblings: []
+      'Domain: Dependencies':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias:
+          - dependencies
         siblings: []
       'Domain: Security':
         color: '#3d5afe'
@@ -644,6 +696,11 @@ repos:
         description: An issue that causes problems for users and developers.
         alias: []
         siblings: []
+      'Status: Revisit':
+        color: '#7d64c4'
+        description: This issue will be revisited in the future!
+        alias: []
+        siblings: []
       'Status: In Discussion':
         color: '#455a64'
         description: >-
@@ -695,6 +752,14 @@ repos:
           This issue is about assuring the quality of the project through
           testing.
         alias: []
+        siblings: []
+      'Domain: Dependencies':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias:
+          - dependencies
         siblings: []
       'Domain: Security':
         color: '#3d5afe'
@@ -800,6 +865,11 @@ repos:
         description: An issue that causes problems for users and developers.
         alias: []
         siblings: []
+      'Status: Revisit':
+        color: '#7d64c4'
+        description: This issue will be revisited in the future!
+        alias: []
+        siblings: []
       'Status: In Discussion':
         color: '#455a64'
         description: >-
@@ -851,6 +921,14 @@ repos:
           This issue is about assuring the quality of the project through
           testing.
         alias: []
+        siblings: []
+      'Domain: Dependencies':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias:
+          - dependencies
         siblings: []
       'Domain: Security':
         color: '#3d5afe'
@@ -956,6 +1034,11 @@ repos:
         description: An issue that causes problems for users and developers.
         alias: []
         siblings: []
+      'Status: Revisit':
+        color: '#7d64c4'
+        description: This issue will be revisited in the future!
+        alias: []
+        siblings: []
       'Status: In Discussion':
         color: '#455a64'
         description: >-
@@ -1007,6 +1090,14 @@ repos:
           This issue is about assuring the quality of the project through
           testing.
         alias: []
+        siblings: []
+      'Domain: Dependencies':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias:
+          - dependencies
         siblings: []
       'Domain: Security':
         color: '#3d5afe'
@@ -1112,6 +1203,11 @@ repos:
         description: An issue that causes problems for users and developers.
         alias: []
         siblings: []
+      'Status: Revisit':
+        color: '#7d64c4'
+        description: This issue will be revisited in the future!
+        alias: []
+        siblings: []
       'Status: In Discussion':
         color: '#455a64'
         description: >-
@@ -1163,6 +1259,14 @@ repos:
           This issue is about assuring the quality of the project through
           testing.
         alias: []
+        siblings: []
+      'Domain: Dependencies':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias:
+          - dependencies
         siblings: []
       'Domain: Security':
         color: '#3d5afe'

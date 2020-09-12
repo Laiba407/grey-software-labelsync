@@ -79,6 +79,12 @@ export const github = repo({
       description: "This issue pertains to identifying vulnerabilities in and improving the security of Grey Software.",
     }),
     label({
+      name: "Domain: Dependencies",
+      color: "#3d5afe",
+      description: "This issue pertains to the libraries and binaries that this project depends on.",
+      alias: ['dependencies'],
+    }),
+    label({
       name: "Domain: Testing",
       color: "#f06292",
       description: "This issue is about assuring the quality of the project through testing.",
@@ -122,6 +128,11 @@ export const github = repo({
       name: "Status: In Discussion",
       color: "#455a64",
       description: "This issue has an ongoing discussion that hasn't reached a consensus. Please contribute!",
+    }),
+    label({
+      name: "Status: Revisit",
+      color: "#7d64c4",
+      description: "This issue will be revisited in the future!",
     }),
     label({
       name: "Type: Bug",

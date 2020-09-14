@@ -37,6 +37,18 @@ repos:
         description: This issue is blocked by another unresolved issue.
         alias: []
         siblings: []
+      'Role: Maintainer':
+        color: '#795548'
+        description: >-
+          Manages the repository by organizing issues, milestones, projects and
+          new contributors.
+        alias: []
+        siblings: []
+      'Role: Operations':
+        color: '#795548'
+        description: Manages the operations of the organizations!
+        alias: []
+        siblings: []
       'Role: UX Designer':
         color: '#70dd02'
         description: >-
@@ -75,6 +87,20 @@ repos:
         description: >-
           This issue is about assuring the quality of the project through
           testing.
+        alias: []
+        siblings: []
+      'Domain: Organization':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias: []
+        siblings: []
+      'Domain: Finances':
+        color: '#0d47a1'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
         alias: []
         siblings: []
       'Domain: Dependencies':
@@ -206,6 +232,18 @@ repos:
         description: This issue is blocked by another unresolved issue.
         alias: []
         siblings: []
+      'Role: Maintainer':
+        color: '#795548'
+        description: >-
+          Manages the repository by organizing issues, milestones, projects and
+          new contributors.
+        alias: []
+        siblings: []
+      'Role: Operations':
+        color: '#795548'
+        description: Manages the operations of the organizations!
+        alias: []
+        siblings: []
       'Role: UX Designer':
         color: '#70dd02'
         description: >-
@@ -244,6 +282,20 @@ repos:
         description: >-
           This issue is about assuring the quality of the project through
           testing.
+        alias: []
+        siblings: []
+      'Domain: Organization':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias: []
+        siblings: []
+      'Domain: Finances':
+        color: '#0d47a1'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
         alias: []
         siblings: []
       'Domain: Dependencies':
@@ -375,6 +427,18 @@ repos:
         description: This issue is blocked by another unresolved issue.
         alias: []
         siblings: []
+      'Role: Maintainer':
+        color: '#795548'
+        description: >-
+          Manages the repository by organizing issues, milestones, projects and
+          new contributors.
+        alias: []
+        siblings: []
+      'Role: Operations':
+        color: '#795548'
+        description: Manages the operations of the organizations!
+        alias: []
+        siblings: []
       'Role: UX Designer':
         color: '#70dd02'
         description: >-
@@ -413,6 +477,20 @@ repos:
         description: >-
           This issue is about assuring the quality of the project through
           testing.
+        alias: []
+        siblings: []
+      'Domain: Organization':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias: []
+        siblings: []
+      'Domain: Finances':
+        color: '#0d47a1'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
         alias: []
         siblings: []
       'Domain: Dependencies':
@@ -544,6 +622,18 @@ repos:
         description: This issue is blocked by another unresolved issue.
         alias: []
         siblings: []
+      'Role: Maintainer':
+        color: '#795548'
+        description: >-
+          Manages the repository by organizing issues, milestones, projects and
+          new contributors.
+        alias: []
+        siblings: []
+      'Role: Operations':
+        color: '#795548'
+        description: Manages the operations of the organizations!
+        alias: []
+        siblings: []
       'Role: UX Designer':
         color: '#70dd02'
         description: >-
@@ -582,6 +672,20 @@ repos:
         description: >-
           This issue is about assuring the quality of the project through
           testing.
+        alias: []
+        siblings: []
+      'Domain: Organization':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias: []
+        siblings: []
+      'Domain: Finances':
+        color: '#0d47a1'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
         alias: []
         siblings: []
       'Domain: Dependencies':
@@ -713,6 +817,18 @@ repos:
         description: This issue is blocked by another unresolved issue.
         alias: []
         siblings: []
+      'Role: Maintainer':
+        color: '#795548'
+        description: >-
+          Manages the repository by organizing issues, milestones, projects and
+          new contributors.
+        alias: []
+        siblings: []
+      'Role: Operations':
+        color: '#795548'
+        description: Manages the operations of the organizations!
+        alias: []
+        siblings: []
       'Role: UX Designer':
         color: '#70dd02'
         description: >-
@@ -751,6 +867,20 @@ repos:
         description: >-
           This issue is about assuring the quality of the project through
           testing.
+        alias: []
+        siblings: []
+      'Domain: Organization':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias: []
+        siblings: []
+      'Domain: Finances':
+        color: '#0d47a1'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
         alias: []
         siblings: []
       'Domain: Dependencies':
@@ -882,6 +1012,18 @@ repos:
         description: This issue is blocked by another unresolved issue.
         alias: []
         siblings: []
+      'Role: Maintainer':
+        color: '#795548'
+        description: >-
+          Manages the repository by organizing issues, milestones, projects and
+          new contributors.
+        alias: []
+        siblings: []
+      'Role: Operations':
+        color: '#795548'
+        description: Manages the operations of the organizations!
+        alias: []
+        siblings: []
       'Role: UX Designer':
         color: '#70dd02'
         description: >-
@@ -920,6 +1062,20 @@ repos:
         description: >-
           This issue is about assuring the quality of the project through
           testing.
+        alias: []
+        siblings: []
+      'Domain: Organization':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias: []
+        siblings: []
+      'Domain: Finances':
+        color: '#0d47a1'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
         alias: []
         siblings: []
       'Domain: Dependencies':
@@ -1051,6 +1207,18 @@ repos:
         description: This issue is blocked by another unresolved issue.
         alias: []
         siblings: []
+      'Role: Maintainer':
+        color: '#795548'
+        description: >-
+          Manages the repository by organizing issues, milestones, projects and
+          new contributors.
+        alias: []
+        siblings: []
+      'Role: Operations':
+        color: '#795548'
+        description: Manages the operations of the organizations!
+        alias: []
+        siblings: []
       'Role: UX Designer':
         color: '#70dd02'
         description: >-
@@ -1089,6 +1257,20 @@ repos:
         description: >-
           This issue is about assuring the quality of the project through
           testing.
+        alias: []
+        siblings: []
+      'Domain: Organization':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias: []
+        siblings: []
+      'Domain: Finances':
+        color: '#0d47a1'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
         alias: []
         siblings: []
       'Domain: Dependencies':
@@ -1220,6 +1402,18 @@ repos:
         description: This issue is blocked by another unresolved issue.
         alias: []
         siblings: []
+      'Role: Maintainer':
+        color: '#795548'
+        description: >-
+          Manages the repository by organizing issues, milestones, projects and
+          new contributors.
+        alias: []
+        siblings: []
+      'Role: Operations':
+        color: '#795548'
+        description: Manages the operations of the organizations!
+        alias: []
+        siblings: []
       'Role: UX Designer':
         color: '#70dd02'
         description: >-
@@ -1258,6 +1452,20 @@ repos:
         description: >-
           This issue is about assuring the quality of the project through
           testing.
+        alias: []
+        siblings: []
+      'Domain: Organization':
+        color: '#3d5afe'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
+        alias: []
+        siblings: []
+      'Domain: Finances':
+        color: '#0d47a1'
+        description: >-
+          This issue pertains to the libraries and binaries that this project
+          depends on.
         alias: []
         siblings: []
       'Domain: Dependencies':

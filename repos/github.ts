@@ -85,9 +85,16 @@ export const github = repo({
       alias: ['dependencies'],
     }),
     label({
-      name: "Domain: Testing",
-      color: "#f06292",
-      description: "This issue is about assuring the quality of the project through testing.",
+      name: "Domain: Finances",
+      color: "#0d47a1",
+      description: "This issue pertains to the libraries and binaries that this project depends on.",
+      alias: ['dependencies'],
+    }),
+    label({
+      name: "Domain: Organization",
+      color: "#3d5afe",
+      description: "This issue pertains to the libraries and binaries that this project depends on.",
+      alias: ['dependencies'],
     }),
     label({
       name: "Domain: Testing",
@@ -118,6 +125,16 @@ export const github = repo({
       name: "Role: UX Designer",
       color: "#70dd02",
       description: "Enhances user experience by improving the usability, ease of use and pleasure of the application.",
+    }),
+    label({
+      name: "Role: Operations",
+      color: "#795548",
+      description: "Manages the operations of the organizations!",
+    }),
+    label({
+      name: "Role: Maintainer",
+      color: "#795548",
+      description: "Manages the repository by organizing issues, milestones, projects and new contributors.",
     }),
     label({
       name: "Status: Blocked",

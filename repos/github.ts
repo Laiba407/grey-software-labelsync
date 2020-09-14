@@ -88,13 +88,11 @@ export const github = repo({
       name: "Domain: Finances",
       color: "#0d47a1",
       description: "This issue pertains to the libraries and binaries that this project depends on.",
-      alias: ['dependencies'],
     }),
     label({
       name: "Domain: Organization",
       color: "#3d5afe",
       description: "This issue pertains to the libraries and binaries that this project depends on.",
-      alias: ['dependencies'],
     }),
     label({
       name: "Domain: Testing",

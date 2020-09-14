@@ -94,16 +94,14 @@ repos:
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Finances':
         color: '#0d47a1'
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Dependencies':
         color: '#3d5afe'
@@ -291,16 +289,14 @@ repos:
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Finances':
         color: '#0d47a1'
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Dependencies':
         color: '#3d5afe'
@@ -488,16 +484,14 @@ repos:
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Finances':
         color: '#0d47a1'
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Dependencies':
         color: '#3d5afe'
@@ -685,16 +679,14 @@ repos:
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Finances':
         color: '#0d47a1'
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Dependencies':
         color: '#3d5afe'
@@ -882,16 +874,14 @@ repos:
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Finances':
         color: '#0d47a1'
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Dependencies':
         color: '#3d5afe'
@@ -1079,16 +1069,14 @@ repos:
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Finances':
         color: '#0d47a1'
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Dependencies':
         color: '#3d5afe'
@@ -1276,16 +1264,14 @@ repos:
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Finances':
         color: '#0d47a1'
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Dependencies':
         color: '#3d5afe'
@@ -1473,16 +1459,14 @@ repos:
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Finances':
         color: '#0d47a1'
         description: >-
           This issue pertains to the libraries and binaries that this project
           depends on.
-        alias:
-          - dependencies
+        alias: []
         siblings: []
       'Domain: Dependencies':
         color: '#3d5afe'

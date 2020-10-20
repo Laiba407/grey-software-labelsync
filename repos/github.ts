@@ -163,7 +163,11 @@ export const github = repo({
       name: "Type: Maintenance",
       color: "#0d47a1",
       description: "An issue that make things clearer or removes ambiguity without changing base functionality.",
+    }),
+    label({
+      name: "hacktoberfest-accepted",
+      color: "#072540",
+      description: "This issue is part of Hacktoberfest.",
     })
-
   ],
 });

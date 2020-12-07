@@ -17,6 +17,7 @@ labelsync({
     "sponsorware": github,
     "twitter-focus": github,
     "linkedin-focus": github,
+    "hackathon-2020-codeforpak-civictech": github
     /* Personalized repositories */
     /* Personalized repositories */
   },

@@ -167,6 +167,11 @@ export const github = repo({
     label({
       name: "hacktoberfest-accepted",
       color: "#072540",
+      description: "This Pull request is accepted as a part of Hacktoberfest.",
+    }),
+    label({
+      name: "hacktoberfest",
+      color: "#072540",
       description: "This issue is part of Hacktoberfest.",
     })
   ],

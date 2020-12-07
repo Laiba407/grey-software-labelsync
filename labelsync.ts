@@ -1,7 +1,6 @@
 import { labelsync, repo } from "label-sync";
 
 /* Repository */
-import { prisma } from "./repos/prisma";
 import { github } from "./repos/github";
 
 /* Config */

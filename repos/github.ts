@@ -10,7 +10,7 @@ export const github = repo({
   labels: [
     label({
       name: "Priority: Low",
-      color: "#8bc34a",
+      color: "#10B981",
       description: "This issue can wait, and can probably be picked up by anyone looking to contribute to the project.",
     }),
     label({
@@ -20,12 +20,12 @@ export const github = repo({
     }),
     label({
       name: "Priority: High",
-      color: "#bf360c",
+      color: "#D97706",
       description: "After critical issues are fixed, these should be dealt with before any further issues.",
     }),
     label({
       name: "Priority: Critical",
-      color: "#E11E20",
+      color: "#DC2626",
       description: "This should be dealt with ASAP. Not fixing this issue would be a serious error.",
     }),
     label({
@@ -163,6 +163,26 @@ export const github = repo({
       name: "Type: Maintenance",
       color: "#0d47a1",
       description: "An issue that make things clearer or removes ambiguity without changing base functionality.",
-    })
+    }),
+    label({
+      name: "Complexity: Beginner",
+      color: "#10B981",
+      description: "A fairly simple task that should be trivial for a seasoned developer and a healthy challenge for a newcomer.",
+    }),
+    label({
+      name: "Complexity: Novice",
+      color: "#fbca04",
+      description: "An average task for a software developer and a good challenge for a novice.",
+    }),
+    label({
+      name: "Complexity: Pro",
+      color: "#D97706",
+      description: "A challenging or time consuming task for the average professional software developer.",
+    }),
+    label({
+      name: "Complexity: Veteran",
+      color: "#DC2626",
+      description: "A task for a seasoned software developer.",
+    }),
   ],
 });
